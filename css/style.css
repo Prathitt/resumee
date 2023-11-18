@@ -211,6 +211,10 @@ font-size:x-large;
 .vh2{
     height: vh;
 }
+.hell{
+    text-align: center;
+    color: #ECF2F5;
+}
 
 /*-------------------------------------MAIN-CONTENT-ABOVE----------------------------------------------*/
 
@@ -224,9 +228,10 @@ font-size:x-large;
 
 .social-icons {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 .ass {
+    
     color: white;
     filter: opacity(1.3);
     text-decoration: none;
@@ -247,4 +252,6 @@ font-size:x-large;
 }
 
 /*--------------------------------------------------FOOTER-ABOVE-----------------------------------------------------*/
+
+
 

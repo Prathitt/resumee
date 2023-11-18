@@ -231,6 +231,7 @@ font-size:x-large;
 }
 .cert{
     width: 200px;
+    border: solid 1px var(--colorrr);
 }
 
 .aaaa{
@@ -248,7 +249,21 @@ font-size:x-large;
     color: #072b46;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.fff{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.pppp{
+    font-size: large;
+}
+.ffff{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
+.hell{
+    text-align: center;
+    color: #ECF2F5;
+}
 /*-------------------------------------MAIN-CONTENT-ABOVE----------------------------------------------*/
 
 
@@ -261,7 +276,7 @@ font-size:x-large;
 
 .social-icons {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 .ass {
     color: white;

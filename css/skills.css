@@ -169,7 +169,10 @@ li {
 h1 {
     text-align: center;
 }
-
+.hell{
+    text-align: center;
+    color: #ECF2F5;
+}
 .skill {
     font-family: 'Courier New', Courier, monospace;
     justify-content: center;
@@ -267,7 +270,7 @@ h1 {
 
 .social-icons {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .ass {
